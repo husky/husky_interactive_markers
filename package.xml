@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>husky_interactive_markers</name>
-  <version>0.0.0</version>
+  <version>0.0.1</version>
   <description>Interactive markers for controlling Husky from inside rviz.</description>
 
   <maintainer email="mpurvis@clearpathrobotics.com">Mike Purvis</maintainer>

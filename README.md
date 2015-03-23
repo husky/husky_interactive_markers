@@ -1,3 +1,1 @@
-== husky_interactive_markers ==
-
-Deprecated, see https://github.com/husky/husky_control
+This repository is deprecated in favour of the generic http://wiki.ros.org/interactive_marker_twist_server
